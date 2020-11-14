@@ -13,10 +13,8 @@ class Email extends BaseConfig
 	public $protocol = 'smtp';
 	public $mailPath = '/usr/sbin/sendmail';
 	public $SMTPHost = 'smtp.googlemail.com';
-	//public $SMTPUser = 'someuser@gmail.com';
-	public $SMTPUser = 'uchilrakshitha22@gmail.com';
-	public $SMTPPass = '22111993@';
-	//public $SMTPPass = '********';
+	public $SMTPUser = 'someuser@gmail.com';
+	public $SMTPPass = '********';
 	public $SMTPPort = 465;
 	public $SMTPTimeout = 60;
 	public $SMTPKeepAlive = false;
