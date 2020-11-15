@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'https://vcare.webkarya.in/';
+	public $baseURL = '';
 	/*
 	|--------------------------------------------------------------------------
 	| Index File
